@@ -1,3 +1,5 @@
+NOTE: _This is a simple exercise I used to practice Ruby fundamentals._
+
 # Leap
 
 Write a program that will take a year and report if it is a leap year.
